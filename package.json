@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "@solana-developers/helpers": "^2.2.0",
+    "@solana/wallet-adapter-base": "^0.9.23",
+    "@solana/wallet-adapter-react": "^0.15.35",
     "@solana/web3.js": "^1.91.1",
     "esrun": "^3.2.26",
     "git": "^0.1.5",
